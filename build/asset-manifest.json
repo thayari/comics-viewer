@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/comics-viewer/static/css/main.7369547d.chunk.css",
+    "main.js": "/comics-viewer/static/js/main.31ffed10.chunk.js",
+    "main.js.map": "/comics-viewer/static/js/main.31ffed10.chunk.js.map",
+    "runtime-main.js": "/comics-viewer/static/js/runtime-main.d7e95763.js",
+    "runtime-main.js.map": "/comics-viewer/static/js/runtime-main.d7e95763.js.map",
+    "static/js/2.77ab9eeb.chunk.js": "/comics-viewer/static/js/2.77ab9eeb.chunk.js",
+    "static/js/2.77ab9eeb.chunk.js.map": "/comics-viewer/static/js/2.77ab9eeb.chunk.js.map",
+    "static/js/3.890cfb74.chunk.js": "/comics-viewer/static/js/3.890cfb74.chunk.js",
+    "static/js/3.890cfb74.chunk.js.map": "/comics-viewer/static/js/3.890cfb74.chunk.js.map",
+    "index.html": "/comics-viewer/index.html",
+    "static/css/main.7369547d.chunk.css.map": "/comics-viewer/static/css/main.7369547d.chunk.css.map",
+    "static/js/2.77ab9eeb.chunk.js.LICENSE.txt": "/comics-viewer/static/js/2.77ab9eeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7e95763.js",
+    "static/js/2.77ab9eeb.chunk.js",
+    "static/css/main.7369547d.chunk.css",
+    "static/js/main.31ffed10.chunk.js"
+  ]
+}
